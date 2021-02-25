@@ -5,7 +5,7 @@
 - 📖 I'm currently studying Software Engineering at Sheridan College!
 - 💻 I’m looking for Summer Internship Opportunities
 - 🥅 2021 Goals: Build more awesome projects!
-- ⚡ Check out some of my work at ameerahmad.com/
+- ⚡ Check out some of my work at [ameerahmad.com](https://ahmaamee.dev.fast.sheridanc.on.ca/portfolio/ameer/)
 
 ### Connect with me:
 
