@@ -5,7 +5,7 @@
 - 📖 I'm currently studying Software Engineering at Sheridan College!
 - 💻 I’m looking for Summer Internship Opportunities
 - 🥅 2021 Goals: Build more awesome projects!
-- ⚡ Fun fact: I love basketball
+- ⚡ Check out some of my work at ameerahmad.com
 
 ### Connect with me:
 
