@@ -5,11 +5,11 @@
 - 📖 I'm currently studying Software Engineering at Sheridan College!
 - 💻 I’m looking for Summer Internship Opportunities
 - 🥅 2021 Goals: Build more awesome projects!
-- ⚡ Check out some of my work at ameerahmad.com
+- ⚡ Check out some of my work at ameerahmad.com/
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]![website](ameerahmad.com)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
