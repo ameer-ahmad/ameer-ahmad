@@ -5,12 +5,12 @@
 - 📖 I'm currently studying Software Engineering at Sheridan College!
 - 💻 I’m looking for Fall Internship Opportunities
 - 🥅 2021 Goals: Build more awesome projects!
-- ⚡ Check out some of my work at [ameerahmad.com](https://ameerahmad.com)
+- ⚡ Check out some of my work at [ameerahmad.com](https://www.ameerahmad.com)
 
 ### Connect with me:
 
-[<img align="left" alt="ameerahmad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ahmaamee.dev.fast.sheridanc.on.ca/portfolio/ameer/)
-[<img align="left" alt="ameerahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ameer-ahmad-0033ab15a/)
+[<img align="left" alt="ameerahmad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ameerahmad.com)
+[<img align="left" alt="ameerahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ameerahmad/)
 
 <br />
 
