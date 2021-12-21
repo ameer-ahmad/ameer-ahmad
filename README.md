@@ -3,7 +3,7 @@
 ## I'm a Software Developer, Designer, and Student!!
 
 - 📖 I'm currently studying Software Engineering at Sheridan College!
-- 💻 I’m looking for Fall Internship Opportunities
+- 💻 I’m looking for Winter Internship Opportunities
 - 🥅 2021 Goals: Build more awesome projects!
 - ⚡ Check out some of my work at [ameerahmad.com](https://www.ameerahmad.com)
 
