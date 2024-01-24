@@ -1,10 +1,9 @@
 ### Hi there, my name is Ameer Ahmad 👋
 
-## I'm a Software Engineer, Designer, and Student!!
+## I'm a Software Engineer and Life Long Learner!!
 
-- 📖 I'm currently studying Software Engineering at Sheridan College!
-- 💻 I’m looking for Summer Internship Opportunities
-- 🥅 2023 Goals: Build more awesome projects!
+- 📖 I'm currently working as a Frontend Developer at Channel 1 media Solutions!
+- 🥅 2024 Goals: Build more awesome projects!
 - ⚡ Check out some of my work at [ameerahmad.com](https://www.ameerahmad.com)
 
 ### Connect with me:
